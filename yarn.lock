@@ -3557,7 +3557,7 @@ __metadata:
     vite: "npm:^5.4.14"
     vite-plugin-ruby: "npm:^5.1.1"
     vite-plugin-stimulus-hmr: "npm:^3.0.0"
-    web-worker: "npm:^1.3.0"
+    web-worker: "npm:^1.5.0"
   languageName: unknown
   linkType: soft
 
@@ -4193,10 +4193,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web-worker@npm:^1.3.0":
-  version: 1.3.0
-  resolution: "web-worker@npm:1.3.0"
-  checksum: 10/9dd89763997a7fa4c50128bed088137775c6033cc2aead24fd82e8292991bb1d3ffc672b47df16eed86c9268d2bf230d5bb3e0d06f41a7b3c0c4c36abf4c1ba7
+"web-worker@npm:^1.5.0":
+  version: 1.5.0
+  resolution: "web-worker@npm:1.5.0"
+  checksum: 10/1209461e2c731fe8e8297c95a8a324c6dd00fd9f3c489ed79d18a15592731324762b7b06c8b6bc404596259aa13cd413119e0153e12a80f47a7f374960461e0d
   languageName: node
   linkType: hard
 
