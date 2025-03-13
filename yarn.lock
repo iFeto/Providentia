@@ -967,10 +967,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rails/actioncable@npm:8.0.100":
-  version: 8.0.100
-  resolution: "@rails/actioncable@npm:8.0.100"
-  checksum: 10/4754231bc8faf2e990972116e4b48325989cde9d67dfbdbfbc5f739703051ce8fe2b8b4cedb3c7f239f4539a1dd71b2fe6376a55cd837d527e3393cdb418d840
+"@rails/actioncable@npm:8.0.200":
+  version: 8.0.200
+  resolution: "@rails/actioncable@npm:8.0.200"
+  checksum: 10/3ecb53aed4dddd75a3427c3b7e670934c221450097b2296d986a85bbdf5223771486815af6558cb0ed31bf24ed18a5991aa39dc3aa37dedff97a35e0f3b1e579
   languageName: node
   linkType: hard
 
@@ -3530,7 +3530,7 @@ __metadata:
     "@fortawesome/free-solid-svg-icons": "npm:^6.7.2"
     "@hotwired/stimulus": "npm:^3.2.2"
     "@hotwired/turbo-rails": "npm:^8.0.12"
-    "@rails/actioncable": "npm:8.0.100"
+    "@rails/actioncable": "npm:8.0.200"
     "@rails/activestorage": "npm:8.0.100"
     "@stimulus-components/clipboard": "npm:^5.0.0"
     "@tailwindcss/aspect-ratio": "npm:^0.4.2"
